@@ -1,7 +1,7 @@
 ### Project Assignment
 #### "Writing a Shiny Application"
 
-Based on the request of the instructor, the server.R and ui.R scripts for this project assignment are very simple. The scripts use the rnorm function from R to plot a histogram of the normal distribution, also was added the interactive widget sliderInput to permit the user to choose the number of observations, between 10 and 5000, and see the behavior of the histogram.
+Based on the request of the instructor, the server.R and ui.R scripts for this project assignment are very simple. The scripts use the rpois function from R to plot a histogram of the poisson distribution, also was added the interactive widget sliderInput and numericInput to permit the user to choose the number of observations and lambda, and also see the behavior of the histogram.
 
 #### Shiny Application Instructions
 
