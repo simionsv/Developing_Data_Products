@@ -9,8 +9,10 @@ Every Shiny app has the same structure: two R scripts saved together in a direct
 
 Key steps to run the  shiny application:
 
- 1- install.packages("shiny")
- 2- library(shiny)
+ 1- install.packages("shiny")   
+ 
+ 2- library(shiny)   
+ 
  3- Make an specific directory named for your app.
  4- Develop your application in server.R and ui.R.
  4- Save the apps server.R and ui.R script inside that directory.
