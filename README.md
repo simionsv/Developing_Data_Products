@@ -7,7 +7,7 @@ Based on the request of the instructor, the server.R and ui.R scripts for this p
 
 Every Shiny app has the same structure: two R scripts saved together in a directory. At a minimum, a Shiny app has ui.R and server.R files.You can create a Shiny app by making a new directory and saving a ui.R and server.R file inside it. Each app will need its own unique directory.You can run a Shiny app by giving the name of its directory to the function runApp. 
 
-Key steps to run the  shiny application:
+Key steps to run a shiny application:
 
  1- install.packages("shiny")   
  
